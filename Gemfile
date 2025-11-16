@@ -54,6 +54,7 @@ gem "html2slim"
 
 #　CSSフレームワーク使用
 gem "bootstrap"
+gem "sassc-rails"
 
 
 group :development, :test do
