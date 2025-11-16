@@ -82,6 +82,8 @@ GEM
     bindex (0.8.1)
     bootsnap (1.19.0)
       msgpack (~> 1.2)
+    bootstrap (5.3.5)
+      popper_js (>= 2.11.8, < 3)
     builder (3.3.0)
     capybara (3.40.0)
       addressable
@@ -152,6 +154,7 @@ GEM
     nokogiri (1.18.10-arm64-darwin)
       racc (~> 1.4)
     pg (1.6.2-arm64-darwin)
+    popper_js (2.11.8)
     pp (0.6.3)
       prettyprint
     prettyprint (0.2.0)
@@ -257,6 +260,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  bootstrap
   capybara
   debug
   html2slim
