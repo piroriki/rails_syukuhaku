@@ -1,0 +1,1 @@
+Rails.applicaion.config.i18n.defalut_locale = :ja
